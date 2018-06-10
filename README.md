@@ -82,10 +82,10 @@ Solutions to HackerRank problems
 |Built-Ins|Medium|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)|[python-sort-sort.py](python/python-sort-sort.py)|
 |Built-Ins|Easy|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|[any-or-all.py](python/any-or-all.py)|
 |Built-Ins|Medium|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|[ginorts.py](python/ginorts.py)|
-|Regex and Parsing|Easy|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)|[introduction-to-regex.py](python/introduction-to-regex.py)|
 |Python Functionals|Easy|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[map-and-lambda-expression.py](python/map-and-lambda-expression.py)|
 |Python Functionals|Medium|[Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|[validate-list-of-email-address-with-filter.py](python/validate-list-of-email-address-with-filter.py)|
 |Python Functionals|Medium|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|[reduce-function.py](python/reduce-function.py)|
+|Regex and Parsing|Easy|[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem)|[introduction-to-regex.py](python/introduction-to-regex.py)|
 |Regex and Parsing|Easy|[Re.split()](https://www.hackerrank.com/challenges/re-split/problem)|[re-split.py](python/re-split.py)|
 |Regex and Parsing|Easy|[Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem)|[re-group-groups.py](python/re-group-groups.py)|
 |Regex and Parsing|Easy|[Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)|[re-findall-re-finditer.py](python/re-findall-re-finditer.py)|
