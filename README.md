@@ -1,9 +1,78 @@
 # HackerRank
 Solutions to HackerRank problems
 
+* [Data Structures](#data-structures)
 * [Python](#python)
 * [Linux Shell](#linux-shell)
 * [C++](#c)
+
+## Data Structures
+| Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
+|:-----------:|:------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|Arrays|Easy|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|[arrays-ds.py](data-structures/arrays-ds.py)|
+|Arrays|Easy|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[2d-array.py](data-structures/2d-array.py)|
+|Arrays|Easy|[Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)|[dynamic-array.py](data-structures/dynamic-array.py)|
+|Arrays|Easy|[Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)|[array-left-rotation.py](data-structures/array-left-rotation.py)|
+|Arrays|Medium|[Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)|[sparse-arrays.py](data-structures/sparse-arrays.py)|
+|Arrays|Hard|[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[crush.py](data-structures/crush.py)|
+|Linked Lists|Easy|[Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)|[print-the-elements-of-a-linked-list.py](data-structures/print-the-elements-of-a-linked-list.py)|
+|Linked Lists|Easy|[Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)|[insert-a-node-at-the-tail-of-a-linked-list.py](data-structures/insert-a-node-at-the-tail-of-a-linked-list.py)|
+|Linked Lists|Easy|[Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem)|[insert-a-node-at-the-head-of-a-linked-list.py](data-structures/insert-a-node-at-the-head-of-a-linked-list.py)|
+|Linked Lists|Easy|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[insert-a-node-at-a-specific-position-in-a-linked-list.py](data-structures/insert-a-node-at-a-specific-position-in-a-linked-list.py)|
+|Linked Lists|Easy|[Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)|[delete-a-node-from-a-linked-list.py](data-structures/delete-a-node-from-a-linked-list.py)|
+|Linked Lists|Easy|[Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)|[print-the-elements-of-a-linked-list-in-reverse.py](data-structures/print-the-elements-of-a-linked-list-in-reverse.py)|
+|Linked Lists|Easy|[Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|[reverse-a-linked-list.py](data-structures/reverse-a-linked-list.py)|
+|Linked Lists|Easy|[Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)|[compare-two-linked-lists.py](data-structures/compare-two-linked-lists.py)|
+|Linked Lists|Easy|[Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)|[merge-two-sorted-linked-lists.py](data-structures/merge-two-sorted-linked-lists.py)|
+|Linked Lists|Easy|[Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem)|[get-the-value-of-the-node-at-a-specific-position-from-the-tail.py](data-structures/get-the-value-of-the-node-at-a-specific-position-from-the-tail.py)|
+|Linked Lists|Easy|[Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)|[delete-duplicate-value-nodes-from-a-sorted-linked-list.py](data-structures/delete-duplicate-value-nodes-from-a-sorted-linked-list.py)|
+|Linked Lists|Medium|[Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|[detect-whether-a-linked-list-contains-a-cycle.py](data-structures/detect-whether-a-linked-list-contains-a-cycle.py)|
+|Linked Lists|Easy|[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|[find-the-merge-point-of-two-joined-linked-lists.py](data-structures/find-the-merge-point-of-two-joined-linked-lists.py)|
+|Linked Lists|Easy|[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|[insert-a-node-into-a-sorted-doubly-linked-list.py](data-structures/insert-a-node-into-a-sorted-doubly-linked-list.py)|
+|Linked Lists|Easy|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[reverse-a-doubly-linked-list.py](data-structures/reverse-a-doubly-linked-list.py)|
+|Trees|Easy|[Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|[tree-preorder-traversal.py](data-structures/tree-preorder-traversal.py)|
+|Trees|Easy|[Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|[tree-postorder-traversal.py](data-structures/tree-postorder-traversal.py)|
+|Trees|Easy|[Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|[tree-inorder-traversal.py](data-structures/tree-inorder-traversal.py)|
+|Trees|Easy|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|[tree-height-of-a-binary-tree.py](data-structures/tree-height-of-a-binary-tree.py)|
+|Trees|Easy|[Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view/problem)|[tree-top-view.py](data-structures/tree-top-view.py)|
+|Trees|Easy|[Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)|[tree-level-order-traversal.py](data-structures/tree-level-order-traversal.py)|
+|Trees|Easy|[Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem)|[binary-search-tree-insertion.py](data-structures/binary-search-tree-insertion.py)|
+|Trees|Medium|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|[tree-huffman-decoding.py](data-structures/tree-huffman-decoding.py)|
+|Trees|Easy|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|[binary-search-tree-lowest-common-ancestor.py](data-structures/binary-search-tree-lowest-common-ancestor.py)|
+|Trees|Medium|[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|[swap-nodes-algo.py](data-structures/swap-nodes-algo.py)|
+|Trees|Medium|[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|[is-binary-search-tree.py](data-structures/is-binary-search-tree.py)|
+|Balanced Trees|Medium|[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem)|[self-balancing-tree.py](data-structures/self-balancing-tree.py)|
+|Balanced Trees|Hard|[Median Updates](https://www.hackerrank.com/challenges/median/problem)|[median.py](data-structures/median.py)|
+|Stacks|Easy|[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|[maximum-element.py](data-structures/maximum-element.py)|
+|Stacks|Medium|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|[balanced-brackets.py](data-structures/balanced-brackets.py)|
+|Stacks|Easy|[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem)|[equal-stacks.py](data-structures/equal-stacks.py)|
+|Stacks|Medium|[Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)|[game-of-two-stacks.py](data-structures/game-of-two-stacks.py)|
+|Stacks|Medium|[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|[largest-rectangle.py](data-structures/largest-rectangle.py)|
+|Stacks|Medium|[Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem)|[simple-text-editor.py](data-structures/simple-text-editor.py)|
+|Stacks|Hard|[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|[poisonous-plants.py](data-structures/poisonous-plants.py)|
+|Stacks|Hard|[AND xor OR](https://www.hackerrank.com/challenges/and-xor-or/problem)|[and-xor-or.py](data-structures/and-xor-or.py)|
+|Stacks|Medium|[Waiter](https://www.hackerrank.com/challenges/waiter/problem)|[waiter.py](data-structures/waiter.py)|
+|Disjoint Set|Hard|[Merging Communities](https://www.hackerrank.com/challenges/merging-communities/problem)|[merging-communities.py](data-structures/merging-communities.py)|
+|Queues|Medium|[Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)|[queue-using-two-stacks.py](data-structures/queue-using-two-stacks.py)|
+|Queues|Medium|[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|[castle-on-the-grid.py](data-structures/castle-on-the-grid.py)|
+|Queues|Medium|[Down to Zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem)|[down-to-zero-ii.py](data-structures/down-to-zero-ii.py)|
+|Queues|Hard|[Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem)|[truck-tour.py](data-structures/truck-tour.py)|
+|Queues|Hard|[Queries with Fixed Length](https://www.hackerrank.com/challenges/queries-with-fixed-length/problem)|[queries-with-fixed-length.py](data-structures/queries-with-fixed-length.py)|
+|Heap|Easy|[QHEAP1](https://www.hackerrank.com/challenges/qheap1/problem)|[qheap1.py](data-structures/qheap1.py)|
+|Heap|Easy|[Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem)|[jesse-and-cookies.py](data-structures/jesse-and-cookies.py)|
+|Heap|Hard|[Find the Running Median](https://www.hackerrank.com/challenges/find-the-running-median/problem)|[find-the-running-median.py](data-structures/find-the-running-median.py)|
+|Heap|Hard|[Minimum Average Waiting Time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem)|[minimum-average-waiting-time.py](data-structures/minimum-average-waiting-time.py)|
+|Disjoint Set|Medium|[Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem)|[components-in-graph.py](data-structures/components-in-graph.py)|
+|Disjoint Set|Hard|[Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem)|[maximum-cost-queries.py](data-structures/maximum-cost-queries.py)|
+|Multiple Choice|Hard|[Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees/problem)|[how-well-do-you-know-trees.py](data-structures/how-well-do-you-know-trees.py)|
+|Multiple Choice|Hard|[Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures/problem)|[are-you-an-expert-on-data-structures.py](data-structures/are-you-an-expert-on-data-structures.py)|
+|Multiple Choice|Hard|[Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1/problem)|[are-you-an-expert-on-data-structures-1.py](data-structures/are-you-an-expert-on-data-structures-1.py)|
+|Trie|Medium|[Contacts](https://www.hackerrank.com/challenges/contacts/problem)|[contacts.py](data-structures/contacts.py)|
+|Trie|Hard|[No Prefix Set](https://www.hackerrank.com/challenges/no-prefix-set/problem)|[no-prefix-set.py](data-structures/no-prefix-set.py)|
+|Advanced|Medium|[Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem)|[x-and-his-shots.py](data-structures/x-and-his-shots.py)|
+|Advanced|Medium|[Jim and the Skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem)|[jim-and-the-skyscrapers.py](data-structures/jim-and-the-skyscrapers.py)|
+|Advanced|Medium|[Find Maximum Index Product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem)|[find-maximum-index-product.py](data-structures/find-maximum-index-product.py)|
+
 
 ## Python
 | Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
