@@ -1,10 +1,159 @@
 # HackerRank
 Solutions to HackerRank problems
 
+* [Algorithms](#algorithms)
 * [Data Structures](#data-structures)
 * [Python](#python)
 * [Linux Shell](#linux-shell)
 * [C++](#c)
+
+## Algorithms
+| Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
+|:-----------:|:------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[solve-me-first.py](algorithms/solve-me-first.py)|
+|Warmup|Easy|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[simple-array-sum.py](algorithms/simple-array-sum.py)|
+|Warmup|Easy|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[compare-the-triplets.py](algorithms/compare-the-triplets.py)|
+|Warmup|Easy|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[a-very-big-sum.py](algorithms/a-very-big-sum.py)|
+|Warmup|Easy|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[diagonal-difference.py](algorithms/diagonal-difference.py)|
+|Warmup|Easy|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[plus-minus.py](algorithms/plus-minus.py)|
+|Warmup|Easy|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[staircase.py](algorithms/staircase.py)|
+|Warmup|Easy|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[mini-max-sum.py](algorithms/mini-max-sum.py)|
+|Warmup|Easy|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[birthday-cake-candles.py](algorithms/birthday-cake-candles.py)|
+|Warmup|Easy|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[time-conversion.py](algorithms/time-conversion.py)|
+|Implementation|Easy|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[grading.py](algorithms/grading.py)|
+|Implementation|Easy|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[apple-and-orange.py](algorithms/apple-and-orange.py)|
+|Implementation|Easy|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[kangaroo.py](algorithms/kangaroo.py)|
+|Implementation|Easy|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[between-two-sets.py](algorithms/between-two-sets.py)|
+|Implementation|Easy|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[breaking-best-and-worst-records.py](algorithms/breaking-best-and-worst-records.py)|
+|Implementation|Easy|[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[the-birthday-bar.py](algorithms/the-birthday-bar.py)|
+|Implementation|Easy|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[divisible-sum-pairs.py](algorithms/divisible-sum-pairs.py)|
+|Implementation|Easy|[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)|[migratory-birds.py](algorithms/migratory-birds.py)|
+|Implementation|Easy|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[day-of-the-programmer.py](algorithms/day-of-the-programmer.py)|
+|Implementation|Easy|[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)|[bon-appetit.py](algorithms/bon-appetit.py)|
+|Implementation|Easy|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|[sock-merchant.py](algorithms/sock-merchant.py)|
+|Implementation|Easy|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)|[drawing-book.py](algorithms/drawing-book.py)|
+|Implementation|Easy|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[counting-valleys.py](algorithms/counting-valleys.py)|
+|Implementation|Easy|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)|[electronics-shop.py](algorithms/electronics-shop.py)|
+|Implementation|Easy|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|[cats-and-a-mouse.py](algorithms/cats-and-a-mouse.py)|
+|Implementation|Medium|[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)|[magic-square-forming.py](algorithms/magic-square-forming.py)|
+|Implementation|Easy|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)|[picking-numbers.py](algorithms/picking-numbers.py)|
+|Implementation|Medium|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[climbing-the-leaderboard.py](algorithms/climbing-the-leaderboard.py)|
+|Implementation|Easy|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[the-hurdle-race.py](algorithms/the-hurdle-race.py)|
+|Implementation|Easy|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[designer-pdf-viewer.py](algorithms/designer-pdf-viewer.py)|
+|Implementation|Easy|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)|[utopian-tree.py](algorithms/utopian-tree.py)|
+|Implementation|Easy|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)|[angry-professor.py](algorithms/angry-professor.py)|
+|Implementation|Easy|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[beautiful-days-at-the-movies.py](algorithms/beautiful-days-at-the-movies.py)|
+|Implementation|Easy|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)|[strange-advertising.py](algorithms/strange-advertising.py)|
+|Implementation|Easy|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[save-the-prisoner.py](algorithms/save-the-prisoner.py)|
+|Implementation|Easy|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[circular-array-rotation.py](algorithms/circular-array-rotation.py)|
+|Implementation|Easy|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem)|[permutation-equation.py](algorithms/permutation-equation.py)|
+|Implementation|Easy|[Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[jumping-on-the-clouds-revisited.py](algorithms/jumping-on-the-clouds-revisited.py)|
+|Implementation|Easy|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)|[find-digits.py](algorithms/find-digits.py)|
+|Implementation|Medium|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[extra-long-factorials.py](algorithms/extra-long-factorials.py)|
+|Implementation|Easy|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|[append-and-delete.py](algorithms/append-and-delete.py)|
+|Implementation|Easy|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[sherlock-and-squares.py](algorithms/sherlock-and-squares.py)|
+|Implementation|Easy|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[library-fine.py](algorithms/library-fine.py)|
+|Implementation|Easy|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[cut-the-sticks.py](algorithms/cut-the-sticks.py)|
+|Implementation|Medium|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|[non-divisible-subset.py](algorithms/non-divisible-subset.py)|
+|Implementation|Easy|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[repeated-string.py](algorithms/repeated-string.py)|
+|Implementation|Easy|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[jumping-on-the-clouds.py](algorithms/jumping-on-the-clouds.py)|
+|Implementation|Easy|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[equality-in-a-array.py](algorithms/equality-in-a-array.py)|
+|Implementation|Medium|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)|[queens-attack-2.py](algorithms/queens-attack-2.py)|
+|Implementation|Easy|[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[acm-icpc-team.py](algorithms/acm-icpc-team.py)|
+|Implementation|Easy|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[taum-and-bday.py](algorithms/taum-and-bday.py)|
+|Implementation|Medium|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)|[encryption.py](algorithms/encryption.py)|
+|Implementation|Medium|[Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|[bigger-is-greater.py](algorithms/bigger-is-greater.py)|
+|Implementation|Easy|[Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[kaprekar-numbers.py](algorithms/kaprekar-numbers.py)|
+|Implementation|Easy|[Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[beautiful-triplets.py](algorithms/beautiful-triplets.py)|
+|Implementation|Easy|[Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)|[minimum-distances.py](algorithms/minimum-distances.py)|
+|Implementation|Medium|[The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[the-time-in-words.py](algorithms/the-time-in-words.py)|
+|Implementation|Easy|[Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[chocolate-feast.py](algorithms/chocolate-feast.py)|
+|Implementation|Easy|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)|[service-lane.py](algorithms/service-lane.py)|
+|Implementation|Easy|[Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[lisa-workbook.py](algorithms/lisa-workbook.py)|
+|Implementation|Easy|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[flatland-space-stations.py](algorithms/flatland-space-stations.py)|
+|Implementation|Easy|[Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)|[fair-rations.py](algorithms/fair-rations.py)|
+|Implementation|Easy|[Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[cavity-map.py](algorithms/cavity-map.py)|
+|Implementation|Easy|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[manasa-and-stones.py](algorithms/manasa-and-stones.py)|
+|Implementation|Medium|[The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem)|[the-grid-search.py](algorithms/the-grid-search.py)|
+|Implementation|Easy|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|[happy-ladybugs.py](algorithms/happy-ladybugs.py)|
+|Implementation|Easy|[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)|[strange-code.py](algorithms/strange-code.py)|
+|Implementation|Medium|[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem)|[3d-surface-area.py](algorithms/3d-surface-area.py)|
+|Implementation|Medium|[Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem)|[absolute-permutation.py](algorithms/absolute-permutation.py)|
+|Implementation|Medium|[Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem)|[two-pluses.py](algorithms/two-pluses.py)|
+|Implementation|Medium|[Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)|[larrys-array.py](algorithms/larrys-array.py)|
+|Implementation|Medium|[Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)|[almost-sorted.py](algorithms/almost-sorted.py)|
+|Sorting|Easy|[Big Sorting](https://www.hackerrank.com/challenges/big-sorting/problem)|[big-sorting.py](algorithms/big-sorting.py)|
+|Strings|Easy|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|[reduced-string.py](algorithms/reduced-string.py)|
+|Strings|Easy|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[camelcase.py](algorithms/camelcase.py)|
+|Strings|Easy|[Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)|[two-characters.py](algorithms/two-characters.py)|
+|Strings|Easy|[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[caesar-cipher-1.py](algorithms/caesar-cipher-1.py)|
+|Strings|Easy|[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[mars-exploration.py](algorithms/mars-exploration.py)|
+|Strings|Easy|[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|[hackerrank-in-a-string.py](algorithms/hackerrank-in-a-string.py)|
+|Strings|Easy|[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[pangrams.py](algorithms/pangrams.py)|
+|Strings|Easy|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[weighted-uniform-string.py](algorithms/weighted-uniform-string.py)|
+|Strings|Easy|[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem)|[separate-the-numbers.py](algorithms/separate-the-numbers.py)|
+|Strings|Easy|[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|[funny-string.py](algorithms/funny-string.py)|
+|Strings|Easy|[Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)|[gem-stones.py](algorithms/gem-stones.py)|
+|Strings|Easy|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)|[alternating-characters.py](algorithms/alternating-characters.py)|
+|Strings|Easy|[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)|[beautiful-binary-string.py](algorithms/beautiful-binary-string.py)|
+|Strings|Easy|[The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[the-love-letter-mystery.py](algorithms/the-love-letter-mystery.py)|
+|Strings|Easy|[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|[palindrome-index.py](algorithms/palindrome-index.py)|
+|Strings|Easy|[Anagram](https://www.hackerrank.com/challenges/anagram/problem)|[anagram.py](algorithms/anagram.py)|
+|Strings|Easy|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[making-anagrams.py](algorithms/making-anagrams.py)|
+|Strings|Easy|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[game-of-thrones.py](algorithms/game-of-thrones.py)|
+|Strings|Easy|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[two-strings.py](algorithms/two-strings.py)|
+|Strings|Easy|[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|[string-construction.py](algorithms/string-construction.py)|
+|Strings|Medium|[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|[sherlock-and-anagrams.py](algorithms/sherlock-and-anagrams.py)|
+|Sorting|Easy|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[tutorial-intro.py](algorithms/tutorial-intro.py)|
+|Sorting|Easy|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[insertionsort1.py](algorithms/insertionsort1.py)|
+|Sorting|Easy|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|[insertionsort2.py](algorithms/insertionsort2.py)|
+|Sorting|Easy|[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|[correctness-invariant.py](algorithms/correctness-invariant.py)|
+|Sorting|Easy|[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime/problem)|[runningtime.py](algorithms/runningtime.py)|
+|Sorting|Easy|[Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1/problem)|[quicksort1.py](algorithms/quicksort1.py)|
+|Sorting|Easy|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem)|[countingsort1.py](algorithms/countingsort1.py)|
+|Sorting|Easy|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)|[countingsort2.py](algorithms/countingsort2.py)|
+|Sorting|Medium|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem)|[countingsort4.py](algorithms/countingsort4.py)|
+|Sorting|Easy|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|[closest-numbers.py](algorithms/closest-numbers.py)|
+|Sorting|Easy|[Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem)|[find-the-median.py](algorithms/find-the-median.py)|
+|Search|Easy|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[icecream-parlor.py](algorithms/icecream-parlor.py)|
+|Search|Medium|[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem)|[knightl-on-chessboard.py](algorithms/knightl-on-chessboard.py)|
+|Search|Easy|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|[missing-numbers.py](algorithms/missing-numbers.py)|
+|Search|Easy|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[sherlock-and-array.py](algorithms/sherlock-and-array.py)|
+|Search|Medium|[Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem)|[connected-cell-in-a-grid.py](algorithms/connected-cell-in-a-grid.py)|
+|Graph Theory|Hard|[Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem)|[dijkstrashortreach.py](algorithms/dijkstrashortreach.py)|
+|Greedy|Easy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[minimum-absolute-difference-in-an-array.py](algorithms/minimum-absolute-difference-in-an-array.py)|
+|Greedy|Easy|[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[marcs-cakewalk.py](algorithms/marcs-cakewalk.py)|
+|Greedy|Easy|[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)|[grid-challenge.py](algorithms/grid-challenge.py)|
+|Greedy|Easy|[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|[luck-balance.py](algorithms/luck-balance.py)|
+|Greedy|Easy|[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)|[maximum-perimeter-triangle.py](algorithms/maximum-perimeter-triangle.py)|
+|Greedy|Easy|[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|[beautiful-pairs.py](algorithms/beautiful-pairs.py)|
+|Greedy|Easy|[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[sherlock-and-the-beast.py](algorithms/sherlock-and-the-beast.py)|
+|Greedy|Easy|[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|[priyanka-and-toys.py](algorithms/priyanka-and-toys.py)|
+|Greedy|Easy|[Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem)|[largest-permutation.py](algorithms/largest-permutation.py)|
+|Greedy|Easy|[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](algorithms/mark-and-toys.py)|
+|Greedy|Medium|[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|[angry-children.py](algorithms/angry-children.py)|
+|Greedy|Easy|[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|[jim-and-the-orders.py](algorithms/jim-and-the-orders.py)|
+|Greedy|Easy|[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)|[two-arrays.py](algorithms/two-arrays.py)|
+|Dynamic Programming|Medium|[The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)|[coin-change.py](algorithms/coin-change.py)|
+|Dynamic Programming|Medium|[Equal](https://www.hackerrank.com/challenges/equal/problem)|[equal.py](algorithms/equal.py)|
+|Bit Manipulation|Easy|[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|[lonely-integer.py](algorithms/lonely-integer.py)|
+|Bit Manipulation|Easy|[Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor/problem)|[maximizing-xor.py](algorithms/maximizing-xor.py)|
+|Bit Manipulation|Medium|[Counter game](https://www.hackerrank.com/challenges/counter-game/problem)|[counter-game.py](algorithms/counter-game.py)|
+|Bit Manipulation|Medium|[Xor-sequence](https://www.hackerrank.com/challenges/xor-se/problem)|[xor-se.py](algorithms/xor-se.py)|
+|Bit Manipulation|Easy|[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|[sum-vs-xor.py](algorithms/sum-vs-xor.py)|
+|Bit Manipulation|Medium|[The Great XOR](https://www.hackerrank.com/challenges/the-great-xor/problem)|[the-great-xor.py](algorithms/the-great-xor.py)|
+|Bit Manipulation|Easy|[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|[flipping-bits.py](algorithms/flipping-bits.py)|
+|Bit Manipulation|Medium|[Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem/problem)|[yet-another-minimax-problem.py](algorithms/yet-another-minimax-problem.py)|
+|Bit Manipulation|Medium|[Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor/problem)|[sansa-and-xor.py](algorithms/sansa-and-xor.py)|
+|Bit Manipulation|Medium|[AND Product](https://www.hackerrank.com/challenges/and-product/problem)|[and-product.py](algorithms/and-product.py)|
+|Bit Manipulation|Medium|[Cipher](https://www.hackerrank.com/challenges/cipher/problem)|[cipher.py](algorithms/cipher.py)|
+|Recursion|Medium|[The Power Sum](https://www.hackerrank.com/challenges/the-power-sum/problem)|[the-power-sum.py](algorithms/the-power-sum.py)|
+|Recursion|Medium|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)|[recursive-digit-sum.py](algorithms/recursive-digit-sum.py)|
+|Recursion|Medium|[Password Cracker](https://www.hackerrank.com/challenges/password-cracker/problem)|[password-cracker.py](algorithms/password-cracker.py)|
+|Recursion|Hard|[K Factorization](https://www.hackerrank.com/challenges/k-factorization/problem)|[k-factorization.py](algorithms/k-factorization.py)|
+|Recursion|Advanced|[Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem)|[repeat-k-sums.py](algorithms/repeat-k-sums.py)|
+|Game Theory|Easy|[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|[game-of-stones-1.py](algorithms/game-of-stones-1.py)|
+|Game Theory|Easy|[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|[tower-breakers-1.py](algorithms/tower-breakers-1.py)|
 
 ## Data Structures
 | Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
