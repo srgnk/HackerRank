@@ -41,7 +41,7 @@ Solutions to HackerRank problems
 |Trees|Easy|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|[binary-search-tree-lowest-common-ancestor.py](data-structures/binary-search-tree-lowest-common-ancestor.py)|
 |Trees|Medium|[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|[swap-nodes-algo.py](data-structures/swap-nodes-algo.py)|
 |Trees|Medium|[Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem)|[is-binary-search-tree.py](data-structures/is-binary-search-tree.py)|
-|Balanced Trees|Medium|[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem)|[self-balancing-tree.py](data-structures/self-balancing-tree.py)|
+|Balanced Trees|Medium|[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem)|[self-balancing-tree.c](data-structures/self-balancing-tree.c)|
 |Balanced Trees|Hard|[Median Updates](https://www.hackerrank.com/challenges/median/problem)|[median.py](data-structures/median.py)|
 |Stacks|Easy|[Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)|[maximum-element.py](data-structures/maximum-element.py)|
 |Stacks|Medium|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|[balanced-brackets.py](data-structures/balanced-brackets.py)|
@@ -72,7 +72,6 @@ Solutions to HackerRank problems
 |Advanced|Medium|[Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem)|[x-and-his-shots.py](data-structures/x-and-his-shots.py)|
 |Advanced|Medium|[Jim and the Skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem)|[jim-and-the-skyscrapers.py](data-structures/jim-and-the-skyscrapers.py)|
 |Advanced|Medium|[Find Maximum Index Product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem)|[find-maximum-index-product.py](data-structures/find-maximum-index-product.py)|
-
 
 ## Python
 | Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
