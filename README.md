@@ -2,9 +2,9 @@
 Solutions to HackerRank problems
 
 * [Linux Shell](#linux-shell)
+* [C++](#c)
 
 ## Linux Shell
-
 | Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
 |:-----------:|:------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
 |Bash|Easy|[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)|[bash-tutorials-lets-echo.sh](shell/bash-tutorials-lets-echo.sh)|
@@ -72,3 +72,32 @@ Solutions to HackerRank problems
 |Grep Sed Awk|Hard|['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem)|[sed-command-5.sh](shell/sed-command-5.sh)|
 |Grep Sed Awk|Medium|['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem)|[awk-1.sh](shell/awk-1.sh)|
 |Grep Sed Awk|Medium|['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem)|[awk-2.sh](shell/awk-2.sh)|
+
+## C++
+| Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
+|:-----------:|:------------:|:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|Introduction|Easy|[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)|[cpp-hello-world.cpp](cpp/cpp-hello-world.cpp)|
+|Introduction|Easy|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)|[cpp-input-and-output.cpp](cpp/cpp-input-and-output.cpp)|
+|Introduction|Easy|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)|[c-tutorial-basic-data-types.cpp](cpp/c-tutorial-basic-data-types.cpp)|
+|Introduction|Easy|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)|[c-tutorial-conditional-if-else.cpp](cpp/c-tutorial-conditional-if-else.cpp)|
+|Introduction|Easy|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|[c-tutorial-for-loop.cpp](cpp/c-tutorial-for-loop.cpp)|
+|Introduction|Easy|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|[c-tutorial-functions.cpp](cpp/c-tutorial-functions.cpp)|
+|Introduction|Easy|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|[c-tutorial-pointer.cpp](cpp/c-tutorial-pointer.cpp)|
+|Introduction|Easy|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)|[arrays-introduction.cpp](cpp/arrays-introduction.cpp)|
+|Introduction|Easy|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)|[variable-sized-arrays.cpp](cpp/variable-sized-arrays.cpp)|
+|Strings|Easy|[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem)|[c-tutorial-stringstream.cpp](cpp/c-tutorial-stringstream.cpp)|
+|Strings|Easy|[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)|[c-tutorial-strings.cpp](cpp/c-tutorial-strings.cpp)|
+|Classes|Easy|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)|[c-tutorial-struct.cpp](cpp/c-tutorial-struct.cpp)|
+|Classes|Easy|[Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem)|[c-tutorial-class.cpp](cpp/c-tutorial-class.cpp)|
+|Classes|Easy|[Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem)|[classes-objects.cpp](cpp/classes-objects.cpp)|
+|Classes|Easy|[Box It!](https://www.hackerrank.com/challenges/box-it/problem)|[box-it.cpp](cpp/box-it.cpp)|
+|Classes|Medium|[Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem)|[inherited-code.cpp](cpp/inherited-code.cpp)|
+|Classes|Medium|[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem)|[exceptional-server.cpp](cpp/exceptional-server.cpp)|
+|Classes|Medium|[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions/problem)|[virtual-functions.cpp](cpp/virtual-functions.cpp)|
+|STL|Easy|[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem)|[vector-sort.cpp](cpp/vector-sort.cpp)|
+|STL|Easy|[Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem)|[vector-erase.cpp](cpp/vector-erase.cpp)|
+|STL|Easy|[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem)|[cpp-lower-bound.cpp](cpp/cpp-lower-bound.cpp)|
+|STL|Easy|[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem)|[cpp-sets.cpp](cpp/cpp-sets.cpp)|
+|STL|Easy|[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem)|[cpp-maps.cpp](cpp/cpp-maps.cpp)|
+|STL|Easy|[Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem)|[prettyprint.cpp](cpp/prettyprint.cpp)|
+|STL|Medium|[Deque-STL](https://www.hackerrank.com/challenges/deque-stl/problem)|[deque-stl.cpp](cpp/deque-stl.cpp)|
