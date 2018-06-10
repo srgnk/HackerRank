@@ -121,6 +121,8 @@ Solutions to HackerRank problems
 |Numpy|Easy|[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer/problem)|[np-inner-and-outer.py](python/np-inner-and-outer.py)|
 |Numpy|Easy|[Polynomials](https://www.hackerrank.com/challenges/np-polynomials/problem)|[np-polynomials.py](python/np-polynomials.py)|
 |Numpy|Easy|[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)|[np-linear-algebra.py](python/np-linear-algebra.py)|
+|Debugging|Medium|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|[words-score.py](python/words-score.py)|
+|Debugging|Medium|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|[default-arguments.py](python/default-arguments.py)|
 
 ## Linux Shell
 | Subdomain | Difficulty | Challenge                                                                            | Solution                                                                                                             |
