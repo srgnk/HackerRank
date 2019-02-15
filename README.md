@@ -69,6 +69,7 @@ Solutions to HackerRank problems
 |Implementation|Easy|[Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[manasa-and-stones.py](algorithms/manasa-and-stones.py)|
 |Implementation|Easy|[Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|[happy-ladybugs.py](algorithms/happy-ladybugs.py)|
 |Implementation|Easy|[Strange Counter](https://www.hackerrank.com/challenges/strange-code/problem)|[strange-code.py](algorithms/strange-code.py)|
+|Implementation|Easy|[Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem)|[halloween-sale.py](algorithms/halloween-sale.py)|
 |Implementation|Medium|[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)|[magic-square-forming.py](algorithms/magic-square-forming.py)|
 |Implementation|Medium|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|[climbing-the-leaderboard.py](algorithms/climbing-the-leaderboard.py)|
 |Implementation|Medium|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[extra-long-factorials.py](algorithms/extra-long-factorials.py)|
