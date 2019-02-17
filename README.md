@@ -105,6 +105,7 @@ Solutions to HackerRank problems
 |Strings|Easy|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[game-of-thrones.py](algorithms/game-of-thrones.py)|
 |Strings|Easy|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[two-strings.py](algorithms/two-strings.py)|
 |Strings|Easy|[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|[string-construction.py](algorithms/string-construction.py)|
+|Strings|Easy|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[strong-password.py](algorithms/strong-password.py)|
 |Strings|Medium|[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|[sherlock-and-anagrams.py](algorithms/sherlock-and-anagrams.py)|
 |Sorting|Easy|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[tutorial-intro.py](algorithms/tutorial-intro.py)|
 |Sorting|Easy|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[insertionsort1.py](algorithms/insertionsort1.py)|
