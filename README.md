@@ -157,6 +157,7 @@ Solutions to HackerRank problems
 |Recursion|Advanced|[Repetitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums/problem)|[repeat-k-sums.py](algorithms/repeat-k-sums.py)|
 |Game Theory|Easy|[Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1/problem)|[game-of-stones-1.py](algorithms/game-of-stones-1.py)|
 |Game Theory|Easy|[Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem)|[tower-breakers-1.py](algorithms/tower-breakers-1.py)|
+|Game Theory|Easy|[A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)|[a-chessboard-game-1.py](algorithms/a-chessboard-game-1.py)|
 
 ## Data Structures
 | Subdomain | Difficulty | Challenge | Solution |
