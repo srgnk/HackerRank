@@ -161,6 +161,7 @@ Solutions to HackerRank problems
 |Game Theory|Easy|[Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1/problem)|[nim-game-1.py](algorithms/nim-game-1.py)|
 |Game Theory|Easy|[Misère Nim](https://www.hackerrank.com/challenges/misere-nim-1/problem)|[misere-nim-1.py](algorithms/misere-nim-1.py)|
 |Game Theory|Easy|[Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1/problem)|[poker-nim-1.py](algorithms/poker-nim-1.py)|
+|Game Theory|Easy|[Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1/problem)|[nimble-game-1.py](algorithms/nimble-game-1.py)|
 
 ## Data Structures
 | Subdomain | Difficulty | Challenge | Solution |
