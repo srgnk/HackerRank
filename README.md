@@ -7,6 +7,7 @@ Solutions to HackerRank problems
 * [Linux Shell](#linux-shell)
 * [CPP](#cpp)
 * [C](#c)
+* [Interview Preparation Kit](#interview-preparation-kit)
 
 ## Algorithms
 | Subdomain | Difficulty | Challenge | Solution |
@@ -473,3 +474,56 @@ Solutions to HackerRank problems
 |Structs and Enums|Easy|[Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem)|[too-high-boxes.c](c/too-high-boxes.c)|
 |Structs and Enums|Medium|[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)|[small-triangles-large-triangles.c](c/small-triangles-large-triangles.c)|
 |Structs and Enums|Hard|[Post Transition](https://www.hackerrank.com/challenges/post-transition/problem)|[post-transition.c](c/post-transition.c)|
+
+
+## Interview Preparation Kit
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)|[counting-valleys.py](interview-preparation-kit/counting-valleys.py)|
+|Warmup|Easy|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[jumping-on-the-clouds.py](interview-preparation-kit/jumping-on-the-clouds.py)|
+|Warmup|Easy|[Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem)|[repeated-string.py](interview-preparation-kit/repeated-string.py)|
+|Warmup|Easy|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)|[sock-merchant.py](interview-preparation-kit/sock-merchant.py)|
+|Arrays|Easy|[2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)|[2d-array.py](interview-preparation-kit/2d-array.py)|
+|Arrays|Easy|[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)|[ctci-array-left-rotation.py](interview-preparation-kit/ctci-array-left-rotation.py)|
+|Arrays|Medium|[Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)|[minimum-swaps-2.py](interview-preparation-kit/minimum-swaps-2.py)|
+|Arrays|Medium|[New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)|[new-year-chaos.py](interview-preparation-kit/new-year-chaos.py)|
+|Arrays|Hard|[Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)|[crush.py](interview-preparation-kit/crush.py)|
+|Dictionaries and Hashmaps|Easy|[Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)|[ctci-ransom-note.py](interview-preparation-kit/ctci-ransom-note.py)|
+|Dictionaries and Hashmaps|Easy|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[two-strings.py](interview-preparation-kit/two-strings.py)|
+|Dictionaries and Hashmaps|Medium|[Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem)|[count-triplets-1.py](interview-preparation-kit/count-triplets-1.py)|
+|Dictionaries and Hashmaps|Medium|[Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem)|[frequency-queries.py](interview-preparation-kit/frequency-queries.py)|
+|Dictionaries and Hashmaps|Medium|[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|[sherlock-and-anagrams.py](interview-preparation-kit/sherlock-and-anagrams.py)|
+|Graphs|Hard|[BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem)|[ctci-bfs-shortest-reach.py](interview-preparation-kit/ctci-bfs-shortest-reach.py)|
+|Graphs|Hard|[DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)|[ctci-connected-cell-in-a-grid.py](interview-preparation-kit/ctci-connected-cell-in-a-grid.py)|
+|Greedy Algorithms|Easy|[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|[luck-balance.py](interview-preparation-kit/luck-balance.py)|
+|Greedy Algorithms|Easy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[minimum-absolute-difference-in-an-array.py](interview-preparation-kit/minimum-absolute-difference-in-an-array.py)|
+|Greedy Algorithms|Medium|[Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem)|[greedy-florist.py](interview-preparation-kit/greedy-florist.py)|
+|Greedy Algorithms|Medium|[Max Min](https://www.hackerrank.com/challenges/angry-children/problem)|[angry-children.py](interview-preparation-kit/angry-children.py)|
+|linked Lists|Easy|[Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|[find-the-merge-point-of-two-joined-linked-lists.py](interview-preparation-kit/find-the-merge-point-of-two-joined-linked-lists.py)|
+|Linked Lists|Easy|[Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)|[insert-a-node-at-a-specific-position-in-a-linked-list.py](interview-preparation-kit/insert-a-node-at-a-specific-position-in-a-linked-list.py)|
+|Linked Lists|Easy|[Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|[insert-a-node-into-a-sorted-doubly-linked-list.py](interview-preparation-kit/insert-a-node-into-a-sorted-doubly-linked-list.py)|
+|Linked Lists|Easy|[Linked Lists: Detect a Cycle](https://www.hackerrank.com/challenges/ctci-linked-list-cycle/problem)|[ctci-linked-list-cycle.py](interview-preparation-kit/ctci-linked-list-cycle.py)|
+|Linked Lists|Easy|[Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|[reverse-a-doubly-linked-list.py](interview-preparation-kit/reverse-a-doubly-linked-list.py)|
+|Miscellaneous|Easy|[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)|[flipping-bits.py](interview-preparation-kit/flipping-bits.py)|
+|Miscellaneous|Medium|[Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem)|[ctci-big-o.py](interview-preparation-kit/ctci-big-o.py)|
+|Recursion and Backtracking|Easy|[Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)|[ctci-fibonacci-numbers.py](interview-preparation-kit/ctci-fibonacci-numbers.py)|
+|Recursion and Backtracking|Medium|[Recursion: Davis' Staircase](https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem)|[ctci-recursive-staircase.py](interview-preparation-kit/ctci-recursive-staircase.py)|
+|Recursion and Backtracking|Medium|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)|[recursive-digit-sum.py](interview-preparation-kit/recursive-digit-sum.py)|
+|Search|Medium|[Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem)|[ctci-ice-cream-parlor.py](interview-preparation-kit/ctci-ice-cream-parlor.py)|
+|Search|Medium|[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|[swap-nodes-algo.py](interview-preparation-kit/swap-nodes-algo.py)|
+|Sorting|Easy|[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](interview-preparation-kit/mark-and-toys.py)|
+|Sorting|Easy|[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|[ctci-bubble-sort.py](interview-preparation-kit/ctci-bubble-sort.py)|
+|Sorting|Medium|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)|[fraudulent-activity-notifications.py](interview-preparation-kit/fraudulent-activity-notifications.py)|
+|Sorting|Medium|[Sorting: Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)|[ctci-comparator-sorting.py](interview-preparation-kit/ctci-comparator-sorting.py)|
+|Sorting|Hard|[Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem)|[ctci-merge-sort.py](interview-preparation-kit/ctci-merge-sort.py)|
+|Stacks and Queues|Medium|[Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)|[balanced-brackets.py](interview-preparation-kit/balanced-brackets.py)|
+|Stacks and Queues|Medium|[Castle on the Grid](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)|[castle-on-the-grid.py](interview-preparation-kit/castle-on-the-grid.py)|
+|Stacks and Queues|Medium|[Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)|[largest-rectangle.py](interview-preparation-kit/largest-rectangle.py)|
+|Stacks and Queues|Medium|[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks/problem)|[ctci-queue-using-two-stacks.py](interview-preparation-kit/ctci-queue-using-two-stacks.py)|
+|Stacks and Queues|Hard|[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|[poisonous-plants.py](interview-preparation-kit/poisonous-plants.py)|
+|Strings|Easy|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)|[alternating-characters.py](interview-preparation-kit/alternating-characters.py)|
+|Strings|Easy|[Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)|[ctci-making-anagrams.py](interview-preparation-kit/ctci-making-anagrams.py)|
+|Trees|Easy|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|[binary-search-tree-lowest-common-ancestor.py](interview-preparation-kit/binary-search-tree-lowest-common-ancestor.py)|
+|Trees|Easy|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|[tree-height-of-a-binary-tree.py](interview-preparation-kit/tree-height-of-a-binary-tree.py)|
+|Trees|Medium|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|[tree-huffman-decoding.py](interview-preparation-kit/tree-huffman-decoding.py)|
+|Trees|Medium|[Trees: Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/ctci-is-binary-search-tree/problem)|[ctci-is-binary-search-tree.py](interview-preparation-kit/ctci-is-binary-search-tree.py)|
