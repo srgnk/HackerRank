@@ -108,6 +108,7 @@ Solutions to HackerRank problems
 |Strings|Easy|[String Construction](https://www.hackerrank.com/challenges/string-construction/problem)|[string-construction.py](algorithms/string-construction.py)|
 |Strings|Easy|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[strong-password.py](algorithms/strong-password.py)|
 |Strings|Medium|[Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)|[sherlock-and-anagrams.py](algorithms/sherlock-and-anagrams.py)|
+|Strings|Medium|[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|[sherlock-and-valid-string.py](algorithms/sherlock-and-valid-string.py)|
 |Sorting|Easy|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[tutorial-intro.py](algorithms/tutorial-intro.py)|
 |Sorting|Easy|[Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1/problem)|[insertionsort1.py](algorithms/insertionsort1.py)|
 |Sorting|Easy|[Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2/problem)|[insertionsort2.py](algorithms/insertionsort2.py)|
@@ -523,6 +524,7 @@ Solutions to HackerRank problems
 |Stacks and Queues|Hard|[Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants/problem)|[poisonous-plants.py](interview-preparation-kit/poisonous-plants.py)|
 |Strings|Easy|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)|[alternating-characters.py](interview-preparation-kit/alternating-characters.py)|
 |Strings|Easy|[Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)|[ctci-making-anagrams.py](interview-preparation-kit/ctci-making-anagrams.py)|
+|Strings|Medium|[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|[sherlock-and-valid-string.py](interview-preparation-kit/sherlock-and-valid-string.py)|
 |Trees|Easy|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|[binary-search-tree-lowest-common-ancestor.py](interview-preparation-kit/binary-search-tree-lowest-common-ancestor.py)|
 |Trees|Easy|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|[tree-height-of-a-binary-tree.py](interview-preparation-kit/tree-height-of-a-binary-tree.py)|
 |Trees|Medium|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|[tree-huffman-decoding.py](interview-preparation-kit/tree-huffman-decoding.py)|
