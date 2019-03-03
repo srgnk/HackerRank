@@ -525,6 +525,7 @@ Solutions to HackerRank problems
 |Strings|Easy|[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)|[alternating-characters.py](interview-preparation-kit/alternating-characters.py)|
 |Strings|Easy|[Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)|[ctci-making-anagrams.py](interview-preparation-kit/ctci-making-anagrams.py)|
 |Strings|Medium|[Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|[sherlock-and-valid-string.py](interview-preparation-kit/sherlock-and-valid-string.py)|
+|Strings|Medium|[Special Palindrome Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem)|[special-palindrome-again.py](interview-preparation-kit/special-palindrome-again.py)|
 |Trees|Easy|[Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|[binary-search-tree-lowest-common-ancestor.py](interview-preparation-kit/binary-search-tree-lowest-common-ancestor.py)|
 |Trees|Easy|[Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)|[tree-height-of-a-binary-tree.py](interview-preparation-kit/tree-height-of-a-binary-tree.py)|
 |Trees|Medium|[Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)|[tree-huffman-decoding.py](interview-preparation-kit/tree-huffman-decoding.py)|
