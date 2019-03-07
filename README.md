@@ -126,6 +126,7 @@ Solutions to HackerRank problems
 |Search|Easy|[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[sherlock-and-array.py](algorithms/sherlock-and-array.py)|
 |Search|Medium|[KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard/problem)|[knightl-on-chessboard.py](algorithms/knightl-on-chessboard.py)|
 |Search|Medium|[Connected Cells in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem)|[connected-cell-in-a-grid.py](algorithms/connected-cell-in-a-grid.py)|
+|Search|Medium|[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|[pairs.py](algorithms/pairs.py)|
 |Graph Theory|Hard|[Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach/problem)|[dijkstrashortreach.py](algorithms/dijkstrashortreach.py)|
 |Greedy|Easy|[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[minimum-absolute-difference-in-an-array.py](algorithms/minimum-absolute-difference-in-an-array.py)|
 |Greedy|Easy|[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[marcs-cakewalk.py](algorithms/marcs-cakewalk.py)|
@@ -513,6 +514,7 @@ Solutions to HackerRank problems
 |Recursion and Backtracking|Medium|[Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)|[recursive-digit-sum.py](interview-preparation-kit/recursive-digit-sum.py)|
 |Search|Medium|[Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem)|[ctci-ice-cream-parlor.py](interview-preparation-kit/ctci-ice-cream-parlor.py)|
 |Search|Medium|[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|[swap-nodes-algo.py](interview-preparation-kit/swap-nodes-algo.py)|
+|Search|Medium|[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|[pairs.py](interview-preparation-kit/pairs.py)|
 |Sorting|Easy|[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](interview-preparation-kit/mark-and-toys.py)|
 |Sorting|Easy|[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|[ctci-bubble-sort.py](interview-preparation-kit/ctci-bubble-sort.py)|
 |Sorting|Medium|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)|[fraudulent-activity-notifications.py](interview-preparation-kit/fraudulent-activity-notifications.py)|
