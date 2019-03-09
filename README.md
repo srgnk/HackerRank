@@ -515,6 +515,7 @@ Solutions to HackerRank problems
 |Search|Medium|[Hash Tables: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem)|[ctci-ice-cream-parlor.py](interview-preparation-kit/ctci-ice-cream-parlor.py)|
 |Search|Medium|[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|[swap-nodes-algo.py](interview-preparation-kit/swap-nodes-algo.py)|
 |Search|Medium|[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|[pairs.py](interview-preparation-kit/pairs.py)|
+|Search|Medium|[Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)|[triple-sum.py](interview-preparation-kit/triple-sum.py)|
 |Sorting|Easy|[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](interview-preparation-kit/mark-and-toys.py)|
 |Sorting|Easy|[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|[ctci-bubble-sort.py](interview-preparation-kit/ctci-bubble-sort.py)|
 |Sorting|Medium|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)|[fraudulent-activity-notifications.py](interview-preparation-kit/fraudulent-activity-notifications.py)|
