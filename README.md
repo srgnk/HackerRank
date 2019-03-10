@@ -516,6 +516,7 @@ Solutions to HackerRank problems
 |Search|Medium|[Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|[swap-nodes-algo.py](interview-preparation-kit/swap-nodes-algo.py)|
 |Search|Medium|[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|[pairs.py](interview-preparation-kit/pairs.py)|
 |Search|Medium|[Triple sum](https://www.hackerrank.com/challenges/triple-sum/problem)|[triple-sum.py](interview-preparation-kit/triple-sum.py)|
+|Search|Medium|[Minimum Time Required](https://www.hackerrank.com/challenges/minimum-time-required/problem)|[minimum-time-required.py](interview-preparation-kit/minimum-time-required.py)|
 |Sorting|Easy|[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[mark-and-toys.py](interview-preparation-kit/mark-and-toys.py)|
 |Sorting|Easy|[Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)|[ctci-bubble-sort.py](interview-preparation-kit/ctci-bubble-sort.py)|
 |Sorting|Medium|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem)|[fraudulent-activity-notifications.py](interview-preparation-kit/fraudulent-activity-notifications.py)|
