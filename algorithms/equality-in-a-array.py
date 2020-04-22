@@ -4,11 +4,7 @@ import sys
 from collections import Counter
 
 def equalizeArray(arr):
-    cnt = Counter(arr)
-    
-    m_el_num = max(cnt.items(), key = lambda x: x[1])
-    
-    return len(arr) - m_el_num[1]
+    print(len(arr) - Counter(arr).most_common(1)[0][1])
     
 
 if __name__ == "__main__":
