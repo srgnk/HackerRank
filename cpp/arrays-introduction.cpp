@@ -7,12 +7,12 @@ using namespace std;
 
 
 int main() {
-    int N;
-    int array[1010];
-    cin >> N;
-    for (int i = N; i; i--)
-        cin >> array[i];
-    for (int i = 1; i <= N; i++)
-        cout << array[i] << " ";
+    int size;   //size variable for size of array
+    int array[1001];
+    cin >> size;
+    for (int index = size; index; index--)
+        cin >> array[index];
+    for (int index = 1; index <= size; index++)
+        cout << array[index] << " ";
     return 0;
 }
